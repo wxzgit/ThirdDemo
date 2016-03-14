@@ -14,6 +14,6 @@ public class SecondActivity extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String name = " hello !";
-        Toast.makeText(this,name,Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"why not ！",Toast.LENGTH_LONG).show();
     }
 }
